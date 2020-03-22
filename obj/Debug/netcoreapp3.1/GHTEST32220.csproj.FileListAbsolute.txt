@@ -1,0 +1,11 @@
+C:\Users\Jeremy\source\repos\GHTEST32220\bin\Debug\netcoreapp3.1\GHTEST32220.exe
+C:\Users\Jeremy\source\repos\GHTEST32220\bin\Debug\netcoreapp3.1\GHTEST32220.deps.json
+C:\Users\Jeremy\source\repos\GHTEST32220\bin\Debug\netcoreapp3.1\GHTEST32220.runtimeconfig.json
+C:\Users\Jeremy\source\repos\GHTEST32220\bin\Debug\netcoreapp3.1\GHTEST32220.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\GHTEST32220\bin\Debug\netcoreapp3.1\GHTEST32220.dll
+C:\Users\Jeremy\source\repos\GHTEST32220\bin\Debug\netcoreapp3.1\GHTEST32220.pdb
+C:\Users\Jeremy\source\repos\GHTEST32220\obj\Debug\netcoreapp3.1\GHTEST32220.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\GHTEST32220\obj\Debug\netcoreapp3.1\GHTEST32220.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\GHTEST32220\obj\Debug\netcoreapp3.1\GHTEST32220.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\GHTEST32220\obj\Debug\netcoreapp3.1\GHTEST32220.dll
+C:\Users\Jeremy\source\repos\GHTEST32220\obj\Debug\netcoreapp3.1\GHTEST32220.pdb

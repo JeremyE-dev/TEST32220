@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GHTEST32220/1.0.0": {
+        "runtime": {
+          "GHTEST32220.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GHTEST32220/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
