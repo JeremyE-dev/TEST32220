@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeremy\\source\\repos\\GHTEST32220\\GHTEST32220.csproj",
+      "projectUniqueName": "C:\\Users\\Jeremy\\source\\repos\\GH32220FEATUREBRANCH\\GHTEST32220.csproj",
       "projectName": "GHTEST32220",
-      "projectPath": "C:\\Users\\Jeremy\\source\\repos\\GHTEST32220\\GHTEST32220.csproj",
+      "projectPath": "C:\\Users\\Jeremy\\source\\repos\\GH32220FEATUREBRANCH\\GHTEST32220.csproj",
       "packagesPath": "C:\\Users\\Jeremy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeremy\\source\\repos\\GHTEST32220\\obj\\",
+      "outputPath": "C:\\Users\\Jeremy\\source\\repos\\GH32220FEATUREBRANCH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
